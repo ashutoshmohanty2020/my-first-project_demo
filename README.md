@@ -1,2 +1,2 @@
 # my-first-project_demo
-this project contail our landing zone 
+this project contains our landing zone codes
